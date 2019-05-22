@@ -34,7 +34,7 @@ and run:
 
 ```bash
 npm install
-npm all
+npm run all
 ```
 
 Two windows will open, a stencil window and a storybook window.
